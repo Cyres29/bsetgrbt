@@ -4,7 +4,7 @@ start_message = """**⚘ Selam {} **
 
 **Ben {} **
 
-»  **Görevim Gruplarda Sizleri Birçok Özelliğim İle Eğlendirmek.**
+»  **Merhabaaaa ben busetaggerbot sahibimde @darkrebels memnun oldum şimdide size neler yapabildiğimi anlatayım.**
 
 »  **Örneğin Doğruluk Mu Cesaret Mi Oynatabilirim.** 
 
@@ -112,7 +112,7 @@ slm = (
 "**Selamm**",  
 )
 
-meyit = (
+price = (
 "**Efendim Dost** 🫢",
 "**Beni mi çağırdıın** 🫠",
 "**Efendimm** ❣️",
@@ -130,7 +130,7 @@ meyit = (
 )
 
 sahip = (
-"@MytBotSahip **Sana sesleniyorlarr**",
+"@darkrebels **Sana sesleniyorlarr**",
 "**Adamdır** 🌹",
 "**Adamımmmm**",
 "**Sahibime mi sesleniyorsun?**",
