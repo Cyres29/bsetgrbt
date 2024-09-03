@@ -52,15 +52,15 @@ logging.basicConfig(
 )
 LOGGER = logging.getLogger(__name__)
 
-API_ID = int(os.environ.get("API_ID", "3939406"))
-API_HASH = os.environ.get("API_HASH", "e11d0eaec136b1047974ab098041e9f2")
-BOT_TOKEN = os.environ.get("TOKEN", "7332183812:AAGLJrYtd_J8qXaJ_65jvWnPsg5F5svDvKE")  
+API_ID = int(os.environ.get("API_ID", "27088988"))
+API_HASH = os.environ.get("API_HASH", "2deda7d9b2b5832636e5f3a29c6f5d39")
+BOT_TOKEN = os.environ.get("TOKEN", "7083585484:AAEs0-U33QHljP7g4nzWz9iBzLblz8pT5xY")  
 
-BOT_ID = int(os.environ.get("BOT_ID", "7332183812"))  
+BOT_ID = int(os.environ.get("BOT_ID", "7083585484"))  
 
-BOT_USERNAME = os.environ.get("BOT_USERNAME", "TgramMuzikBot")  
-LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", -1002175552878))  
-OWNER_ID = 7242000752  # Sahip hesabın id'si
+BOT_USERNAME = os.environ.get("BOT_USERNAME", "@BuseTggr_bot")  
+LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", -1002163406142))  
+OWNER_ID = 7543638265  # Sahip hesabın id'si
 
 
 
@@ -142,7 +142,7 @@ async def start(bot: Client, message: Message):
                     InlineKeyboardButton("📚 Komutlar", callback_data="cvv"),
                 ],
                 [
-                    InlineKeyboardButton("🗯 Destek", url=f"https://t.me/DelularSohbet"),
+                    InlineKeyboardButton("🗯 Destek", url=f"https://t.me/zumresohbett"),
                     InlineKeyboardButton("➕ Beni Grubuna Ekle", url=f"https://t.me/{app.me.username}?startgroup=a"),
                 ],
                 [
