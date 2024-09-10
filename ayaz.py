@@ -112,7 +112,7 @@ slm = (
 "**Selamm**",  
 )
 
-price = (
+Akın = (
 "**Efendim Dost** 🫢",
 "**Beni mi çağırdıın** 🫠",
 "**Efendimm** ❣️",
