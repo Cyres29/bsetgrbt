@@ -434,7 +434,7 @@ amk = (
 "**Terbiyesiz**",
 )
 
-betus  = (
+betüş  = (
 "** dünyanın 8.harikasi sana sesleniyor @b3tuss**",
 "**@b3tuss sana sesleniyor güzellik?**",
 "**betüş idol kadından mı bahsediyorsun**",
