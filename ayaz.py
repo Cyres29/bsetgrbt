@@ -242,6 +242,16 @@ takılıyorum = (
 "**MAD1BOY ile beni güncelliyoruz** 🤓",
 )
 
+betüş = (
+"**geldi benim gönlümün efendisi** 👀",
+"**betüşmü dünyanın 8.harikası mı** 😡",
+"**@b3tuss sana sesleniyor grubun güzeli** 😔",
+"**@b3tuss sana sesleniyor prenses** 🤔",
+"**sen espiri yapma betüş** 🤓",
+"**nerelerdesin sen betüş** 😂",
+)
+
+
 hayır = (
 "**Neye hayır?** 👀",
 "**Sana hayır** 😡",
