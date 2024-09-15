@@ -2,7 +2,9 @@ import random
 
 start_message = """**⚘ Selam {} **
 
-** Sellammm Ben busetaggerbot ve sahibimde @darkrebels memnun oldum şimdide sana neler yapabildiğimden bahsedeyim {} **
+** Ben {} **
+
+»  **Sellammm Ben busetaggerbot ve sahibimde @darkrebels memnun oldum şimdide sana neler yapabildiğimden bahsedeyim **
 
 »  **Görevim Gruplarda Sizleri Birçok Özelliğim İle Eğlendirmek.**
 
