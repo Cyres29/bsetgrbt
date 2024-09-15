@@ -434,16 +434,6 @@ amk = (
 "**Terbiyesiz**",
 )
 
-betüş  = (
-"** dünyanın 8.harikasi sana sesleniyor @b3tuss**",
-"**@b3tuss sana sesleniyor güzellik?**",
-"**betüş idol kadından mı bahsediyorsun**",
-"**minnak kadın betüşden mi bahsediyorsun?**🥺",
-"**kimse betüş olamaz**",
-"**betüş olmak dünyanın en zor işi**",
-"** betüş kuzu senden bahsediyor**",
-)
-
 yoruldum  = (
 "**Neden?**",
 "**Kim yordu bebeğimi?**",
@@ -919,15 +909,14 @@ sen = (
 "**Yok sen**",
 )
 
-hiç = (
-"**Ne hiç?**",
-"**Hiç mi?**",
-"**Evet hiç**",
-"**Bir hiç miyim**",
-"**Ne demek hiç?**",
-"**Hiç olmaz**",
-"**Hiç mi yok?**",
-"**Hiç yani**",
+betüş  = (
+"** dünyanın 8.harikasi sana sesleniyor @b3tuss**",
+"**@b3tuss sana sesleniyor güzellik?**",
+"**betüş idol kadından mı bahsediyorsun**",
+"**minnak kadın betüşden mi bahsediyorsun?**🥺",
+"**kimse betüş olamaz**",
+"**betüş olmak dünyanın en zor işi**",
+"** betüş kuzu senden bahsediyor**",
 )
 
 aç = (
