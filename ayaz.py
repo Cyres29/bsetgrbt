@@ -114,7 +114,7 @@ slm = (
 "**Selamm**",  
 )
 
-meyit = (
+akın = (
 "**Efendim Dost** 🫢",
 "**Beni mi çağırdıın** 🫠",
 "**Efendimm** ❣️",
@@ -132,7 +132,7 @@ meyit = (
 )
 
 sahip = (
-"@MytBotSahip **Sana sesleniyorlarr**",
+"@darkrebels **Sana sesleniyorlarr**",
 "**Adamdır** 🌹",
 "**Adamımmmm**",
 "**Sahibime mi sesleniyorsun?**",
