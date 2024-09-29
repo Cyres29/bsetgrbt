@@ -97,10 +97,10 @@ extra = """❄️  Extra Komutlarım :
 
 
 slm = (
-"**Sen nerdesin ya** 😂",
+"**Selam aşkkk** 😂",
 "**Selmmm**",
-"**Nerde kaldın be** 😂",
-"**Gözümüz yollardaydı sonunda** 😂",
+"**Selam aşkoom** 😂",
+"**Merhaba yavrucum ** 😂",
 "**Çok bekledik he** 😂",
 "**Gözümüz yollarda kalmıştı** 😂",
 "**Heh bi sen eksiktin** 😂",
@@ -132,7 +132,7 @@ akın = (
 )
 
 sahip = (
-"@darkrebels **Sana sesleniyorlarr**",
+"Annee **Sana sesleniyorlarr**",
 "**Adamdır** 🌹",
 "**Adamımmmm**",
 "**Sahibime mi sesleniyorsun?**",
@@ -140,7 +140,7 @@ sahip = (
 
 
 naber = (
-"**İyidir senden?** 😁",
+"**İyidir aşkom senden?** 😁",
 "**İyii sendennn**",
 "**İyi bende canımm** 😅",
 "**İdare senden**",
@@ -165,8 +165,8 @@ nasılsın = (
 )
 
 tm = (
-"**Sana tamam** 😡",
-"**Tamam deme lan**",
+"**Peki bakalım** 😡",
+"**Tamam aşko**",
 "**Tamam sus** 😂",
 "**Anladık tamam** 🤣",
 "**Tm** 😂",
@@ -177,16 +177,18 @@ tm = (
 
 sus = (
 "**Sen sus** 😡",
-"**Bana sus deme**",
+"**Bana sus deme Anneme söylicem seni bak**",
 "**Sinirleniyorum ama** 🤬",
-"**Konuşma lan**",
+"**Konuşma lan Annemi çağırıyorum @SATAN1ST Anne şuna bişi de**",
 "**Beni susturamazsın kiii**",
+"**Anneme söylicem seni**",
+	
 )
 
 he = (
-"**Sana he**",
+"**Naber**",
 "**Ne hee**",
-"**He mi dedin sen**",
+"**Aynen**",
 )
 
 merhaba = (
@@ -197,12 +199,12 @@ merhaba = (
 )
 
 yok = (
-"**Ne yok**",
-"**Sana yok**",
-"**Niye yok**",
+"**Peki Aşkk**",
+"**Hömm**",
+"**Hmmm**",
 "**Beynin mi yok anlamadım** 😂",
 "**Hııı**",
-"**Ne yok**",	
+"**HÖÖÖÖÖÖÖÖÖÖM**",	
 )
 
 dur = (
