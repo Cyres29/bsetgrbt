@@ -4,7 +4,7 @@ start_message = """**⚘ Selam {} **
 
 ** Ben {} **
 
-»  **Sellammm Ben busetaggerbot ve sahibimde @darkrebels memnun oldum şimdide sana neler yapabildiğimden bahsedeyim **
+»  **Sellammm Ben busetaggerbot memnun oldum şimdide sana neler yapabildiğimden bahsedeyim **
 
 »  **Görevim Gruplarda Sizleri Birçok Özelliğim İle Eğlendirmek.**
 
